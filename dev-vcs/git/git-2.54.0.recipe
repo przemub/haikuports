@@ -187,7 +187,6 @@ BUILD_PREREQUIRES="
 	cmd:make
 	cmd:man
 	cmd:msgfmt
-	cmd:nano
 	cmd:perl >= 5.40
 	cmd:sed
 	cmd:tar
